@@ -36,7 +36,7 @@ clean_data (after join): 2002-07-26 to 2025-07-14
 **Data Source**\
 Both datasets are from Tiingo.com
 
-## Project Setup Instruction\
+## Project Setup Instruction
 - Fork the repository
 - Create a virtual environment in the project folder
 - Activate the virtual environment
