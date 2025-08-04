@@ -23,20 +23,20 @@ This project utilizes historical investment data (spy and tlt) to determine the 
 
 ## Data Summary
 
-**Total Records**
+**Total Records**\
 spy dataset: 8,169 rows, 13 columns\
 tlt dataset: 5,778 rows, 13 columns\
 clean_data (after join): 5,778 rows, 3 columns
 
-**Data Range**
+**Data Range**\
 spy dataset: 1993-01-29 to 2025-07-14\
 tlt dataset: 2002-07-26 to 2025-07-14\
 clean_data (after join): 2002-07-26 to 2025-07-14
 
-**Data Source**
+**Data Source**\
 Both datasets are from Tiingo.com
 
-## Project Setup Instruction
+## Project Setup Instruction\
 - Fork the repository
 - Create a virtual environment in the project folder
 - Activate the virtual environment
