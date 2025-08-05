@@ -34,7 +34,7 @@ tlt dataset: 2002-07-26 to 2025-07-14\
 clean_data (after join): 2002-07-26 to 2025-07-14
 
 **Data Source**\
-Both datasets are from Tiingo.com
+Both datasets were obtained from Tiingo.com
 
 ## Project Setup Instruction
 - Fork the repository
@@ -64,7 +64,7 @@ _Pandas_ - data cleaning\
 _Matplotlib_ - charts and visualization\
 _SQLite_ - data joining and SQL querying\
 _Jupiter Notebook_ - clean, narrative-driven presentation of both code and results\
-_Gitbash and Github_ - prject updating and sharing\
+_Github_ - version control\
  
 ## Reference
 https://robberger.com/wp-content/uploads/2024/01/retailinvestor.org_pdf_Bengen1.pdf
