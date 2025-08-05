@@ -6,7 +6,7 @@ This project utilizes historical investment data (spy and tlt) to determine the 
 
 ## Data Dictionary
 
-**Variables from the SPY.csv**
+**Variables from the SPY.csv and tlt.csv**
 - date - The trading date
 - close - Price at which the stock closed on that day
 - high - Highest price during the trading day
@@ -20,6 +20,10 @@ This project utilizes historical investment data (spy and tlt) to determine the 
 - adjVolume - Adjusted number of shares (accounts for dividends and splits)
 - divCash - The amount of cash dividend paid per share on that day
 - splitFactor - The ratio by which a stock is split or reverse-split on that day
+
+**Variables from the clean_data.csv**
+- spy_adjClose - Adjusted closing price (accounts for dividends and splits) of spy, renamed 'adjClose' column from spy.csv
+- tlt_adjClose - Adjusted closing price (accounts for dividends and splits) of tlt, renamed 'adjClose' column from tlt.csv
 
 ## Data Summary
 
