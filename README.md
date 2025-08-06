@@ -24,6 +24,8 @@ This project utilizes historical investment data (spy and tlt) to determine the 
 **Variables from the clean_data.csv**
 - spy_adjClose - Adjusted closing price (accounts for dividends and splits) of spy, renamed 'adjClose' column from spy.csv
 - tlt_adjClose - Adjusted closing price (accounts for dividends and splits) of tlt, renamed 'adjClose' column from tlt.csv
+- spy_diff - Difference between spy_close and spy_adjClose (new column created)
+- tlt_diff - Difference between tlt_close and tlt_adjClose (new column created)
 
 ## Data Summary
 
