@@ -70,7 +70,7 @@ _Pandas_ - data cleaning\
 _Matplotlib_ - charts and visualization\
 _SQLite_ - data joining and SQL querying\
 _Jupiter Notebook_ - clean, narrative-driven presentation of both code and results\
-_Github_ - version control\
+_Github_ - version control
  
 ## Reference
 https://robberger.com/wp-content/uploads/2024/01/retailinvestor.org_pdf_Bengen1.pdf
