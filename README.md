@@ -47,6 +47,7 @@ Both datasets were obtained from Tiingo.com
 - Create a virtual environment in the project folder
 - Activate the virtual environment
 - Install the `requirements.txt` file
+- Run data_cleaning.ipynb first, then retirement_analysis.ipynb
 - When you are done working on the repo, deactivate the virtual environment
 
 ## Virtual environment commands
